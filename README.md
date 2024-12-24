@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jyotipokhrel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotipokhrel22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jyoti-pokhrel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-pokhrel22" height="30" width="40" /></a>
+<a href="https://twitter.com/jyotipokhrel22" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/046/853/007/non_2x/twitter-x-black-and-white-logo-transparent-background-free-png.png" alt="jyotipokhrel22" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/jyoti-pokhrel22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-pokhrel22" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
